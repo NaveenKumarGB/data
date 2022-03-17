@@ -1,0 +1,20 @@
+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
+
+https://github.com/NaveenKumarGB/first-repo.git
+git remote add origin https://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@github.com/NaveenKumarGB/first-repo.git
+
+
+
+
+
+https://github.com/NaveenKumarGB/data.git
+
+
+git remote add origin https://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@github.com/NaveenKumarGB/data.git
+
+
+
+
+
+
+git remote add origin https://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@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
